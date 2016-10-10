@@ -1,2 +1,2 @@
-# trans-tasman-cloud-app
-A simple nsible controlled trans tasman multi cloud application leveraging AWS and Catalyst Cloud.
+# Trans-tasman-cloud-app
+A simple Ansible controlled trans tasman multi cloud application leveraging AWS (Australia) and Catalyst Cloud (New Zealand).
