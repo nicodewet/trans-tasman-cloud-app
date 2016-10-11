@@ -9,4 +9,4 @@
 #   - A hostname/ip can be a member of multiple groups
 
 [servers]
-catalyst ansible_ssh_host=150.242.42.62
+catalyst ansible_host=150.242.42.62
